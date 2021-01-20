@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1611140536 source:c:\program files (x86)\progme\oop_laba10\main.cpp
+	<iostream>
+	<cstring>
+	<typeinfo>
+	<cstdlib>
+
